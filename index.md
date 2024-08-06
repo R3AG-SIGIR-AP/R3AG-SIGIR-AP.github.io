@@ -19,7 +19,7 @@ Topics includes but not limited to:
 - Submission website open: TBA<br/>
 - Submission Deadlines: TBA<br/>
 - Acceptance Notification: TBA<br/>
-- R<sup>3</sup>AG Workshop: **December 12, 2024**<br/>
+- R<sup>3</sup>AG Workshop: **December 12, 2024**
 
 Deadlines refer to 23:59 (11:59pm) in the AoE (Anywhere on Earth) time zone.
 
