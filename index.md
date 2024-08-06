@@ -146,7 +146,7 @@ Workshop: March 24, 2024
  
 
 
-## <a name='Organisers' style="color: inherit; text-decoration: none;"> Organisers </a>
+## <a name='Organizers' style="color: inherit; text-decoration: none;"> Organisers </a>
 
 **Zihan Wang**, University of Amsterdam, zihanwang.sdu@gmail.com
 
