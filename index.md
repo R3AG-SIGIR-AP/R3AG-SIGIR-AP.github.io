@@ -3,7 +3,7 @@ layout: page
 description: ""
 ---
 
-## <a name='Overview' style="color: inherit; text-decoration: none; text-align: center;"> R<sup>3</sup>AG: First Workshop on Refined and Reliable Retrieval Augmented Generation </a> 
+## <a name='Overview' style="color: inherit; text-decoration: none; text-align: center;"> R<sup>3</sup>AG: The First Workshop on Refined and Reliable Retrieval Augmented Generation </a> 
  Retrieval-Augmented Generation (RAG) has gained wide attention as the key component to improve generative models  with external knowledge augmentation from information retrieval. It has shown great prominence in enhancing the functionality and performance of large language model (LLM)-based applications.However, with comprehensive application of RAG, more and more problems and limitations have been identified, thus urgently requiring further fundamental exploration to improve current RAG frameworks. 
  
  This workshop aims to explore in depth how to conduct refined and reliable RAG for downstream AI tasks. We call for participants to re-examine and formulate the basic principles and practical implementation of refined and reliable RAG. The workshop serves as a platform for both academia and industry researchers to conduct discussions, share insights, and foster research to build the next generation of RAG systems. Participants will engage in discussions and presentations focusing on fundamental challenges, cutting-edge research, and  potential pathways to improve RAG.  
@@ -16,12 +16,13 @@ Topics includes but not limited to:
 
 
 ## <a name='Important Dates' style="color: inherit; text-decoration: none; text-align: center;"> Important Dates </a>
-Submission Deadlines: TBD<br/>
-Acceptance Notification: TBD<br/>
+Submission website open: TBA<br/>
+Submission Deadlines: TBA<br/>
+Acceptance Notification: TBA<br/>
 R<sup>3</sup>AG Workshop: December 12, 2024
 
 ## <a name='Schedule' style="color: inherit; text-decoration: none; text-align: center;"> Schedule </a>
-TBD
+TBA
 
 ## <a name='Organizers' style="color: inherit; text-decoration: none;"> Organizers </a>
 
