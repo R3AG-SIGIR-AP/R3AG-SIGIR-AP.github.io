@@ -24,8 +24,9 @@ At least one author of each accepted paper must attend the workshop on-site and 
 - Submission website open: TBA<br/>
 - Submission Deadlines: TBA<br/>
 - Acceptance Notification: TBA
-- R<sup>3</sup>AG Workshop: **December 12, 2024**
-- Deadlines refer to 23:59 (11:59pm) in the AoE (Anywhere on Earth) time zone.
+- R<sup>3</sup>AG Workshop: **December 12, 2024**\
+  
+Deadlines refer to 23:59 (11:59pm) in the AoE (Anywhere on Earth) time zone.
 
 ## <a name='Schedule' style="color: inherit; text-decoration: none; text-align: center;"> Schedule </a>
 TBA
