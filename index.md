@@ -4,13 +4,11 @@ description: ""
 ---
 
 ## <a name='Overview' style="color: inherit; text-decoration: none; text-align: center;"> R<sup>3</sup>AG: Refined and Reliable Retrieval Augmented Generation </a> 
-<br/>
 123
 <br/>
 <br/>
 
 ## <a name='Call for Papers' style="color: inherit; text-decoration: none;text-align: center;"> Call for Papers </a> <br/>
-<br/>
 123
 
 ## <a name='Important Dates' style="color: inherit; text-decoration: none; text-align: center;"> Important Dates </a>
