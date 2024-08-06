@@ -148,9 +148,9 @@ Workshop: March 24, 2024
 
 ## <a name='Organisers' style="color: inherit; text-decoration: none;"> Organisers </a>
 
-**Leif Azzopardi**, University of Strathclyde, leif.azzopardi@strath.ac.uk
+**Zihan Wang**, University of Amsterdam, leif.azzopardi@strath.ac.uk
 
-**Charlie Clarke**, University of Waterloo, claclark@gmail.com
+**Xuri Ge**, University of Waterloo, claclark@gmail.com
 
 **Paul Kantor**, University of Wisconsin Madison, paul.kantor@rutgers.edu
 
