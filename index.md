@@ -20,6 +20,7 @@ Topics includes but not limited to:
 - Submission Deadlines: TBA<br/>
 - Acceptance Notification: TBA<br/>
 - R<sup>3</sup>AG Workshop: December 12, 2024
+Deadlines refer to 23:59 (11:59pm) in the AoE (Anywhere on Earth) time zone.
 
 ## <a name='Schedule' style="color: inherit; text-decoration: none; text-align: center;"> Schedule </a>
 TBA
