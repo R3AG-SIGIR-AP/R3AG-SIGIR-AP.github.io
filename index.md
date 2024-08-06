@@ -17,9 +17,7 @@ Submissions of papers must be at least 2 pages and at most 9 pages (including fi
 
 All submissions of papers must be original and have not been published or accepted elsewhere or simultaneously submitted to another journal or conference.The review process of the submitted manuscripts will be done together with our programme committee. The selection will depend on the technical soundness and relevance of submissions to the community that the workshop is targeting.
 
-The review process will be double-blind. Author names need to be anonymized.
-
-At least one author of each accepted paper must attend the workshop on-site and present their work. Papers should be electronically submitted by the deadline through EasyChair:
+At least one author of each accepted paper must attend the workshop on-site and present their work. Submissions must be anonymous and should be submitted electronically via EasyChair:
 
 
 ## <a name='Important Dates' style="color: inherit; text-decoration: none; text-align: center;"> Important Dates </a>
