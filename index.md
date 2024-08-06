@@ -18,7 +18,7 @@ In our pursuit of “search futures”, this workshop aims to provide the first 
 <br/>
 <br/>
 
-## <a name='Call for Speakers' style="color: inherit; text-decoration: none;text-align: center;"> Call for Speakers </a> <br/>
+## <a name='Call for Papers' style="color: inherit; text-decoration: none;text-align: center;"> Call for Papers </a> <br/>
 <br/>
 With advances in AI, it is claimed that the results of search across all of digitized knowledge can be digested, summarized, and focused for any inquirer. If this is true, has the problem that IR set out to address now been solved?  Is there no need for improvements in search or recommendation -- the systems will tell us what ought to want to know. This workshop asks: is there a place for the guiding principles of IR, in this brave new world? What are the new questions, and can we find a path to answers, by extending the ideas that have brought us here? Do we need new ideas altogether?
 We are looking for speakers to present their views and positions about the future of search.
@@ -148,17 +148,19 @@ Workshop: March 24, 2024
 
 ## <a name='Organisers' style="color: inherit; text-decoration: none;"> Organisers </a>
 
-**Zihan Wang**, University of Amsterdam, leif.azzopardi@strath.ac.uk
+**Zihan Wang**, University of Amsterdam, zihanwang.sdu@gmail.com
 
-**Xuri Ge**, University of Waterloo, claclark@gmail.com
+**Xuri Ge**, University of Glasgow, x.ge.2@research.gla.ac.uk
 
-**Paul Kantor**, University of Wisconsin Madison, paul.kantor@rutgers.edu
+**Joemon M. Jose**, University of Glasgow, joemon.jose@glasgow.ac.uk
 
-**Bhaskar Mitra**, Microsoft Research, bmitra@microsoft.com
+**Haitao Yu**, University of Tsukuba, yuhaitao@slis.tsukuba.ac.jp
 
-**Johanne Trippas**, RMIT University, j.trippas@rmit.edu.au
+**Weizhi Ma**, Tsinghua University, mawz12@hotmail.com
 
 **Zhaochun Ren**, Leiden University, z.ren@liacs.leidenuniv.nl
+
+**Xin xin**, Shandong University, xinxin@sdu.edu.cn
 
 
 
