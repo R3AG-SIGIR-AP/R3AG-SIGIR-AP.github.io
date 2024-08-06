@@ -48,7 +48,7 @@ R<sup>3</sup>AG Workshop: December 12, 2024
 ## <a name='Schedule' style="color: inherit; text-decoration: none; text-align: center;"> Schedule </a>
 
 
-## <a name='Organizers' style="color: inherit; text-decoration: none;"> Organisers </a>
+## <a name='Organizers' style="color: inherit; text-decoration: none;"> Organizers </a>
 
 **Zihan Wang**, University of Amsterdam, zihanwang.sdu@gmail.com
 
