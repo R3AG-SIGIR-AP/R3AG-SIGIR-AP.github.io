@@ -3,7 +3,7 @@ layout: page
 description: ""
 ---
 
-## <a name='Overview' style="color: inherit; text-decoration: none; text-align: center;"> R<sup>3</sup>AG: and Reliable Retrieval Augmented Generation </a> 
+## <a name='Overview' style="color: inherit; text-decoration: none; text-align: center;"> R<sup>3</sup>AG: Refined and Reliable Retrieval Augmented Generation </a> 
 123
 <br/>
 <br/>
