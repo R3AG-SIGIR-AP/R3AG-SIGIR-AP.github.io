@@ -4,7 +4,7 @@ description: ""
 ---
 
 ## <a name='Overview' style="color: inherit; text-decoration: none; text-align: center;"> R<sup>3</sup>AG: Refined and Reliable Retrieval Augmented Generation </a> 
-123
+ Retrieval-Augmented Generation (RAG) has gained wide attention as the key component to improve generative models  with external knowledge augmentation from information retrieval. It has shown great prominence in enhancing the functionality and performance of large language model (LLM)-based applications.However, with comprehensive application of RAG, more and more problems and limitations have been identified, thus urgently requiring further fundamental exploration to improve current RAG frameworks. This workshop aims to explore in depth how to conduct refined and reliable RAG for downstream AI tasks.
 <br/>
 <br/>
 
