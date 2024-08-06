@@ -16,29 +16,28 @@ Topics includes but not limited to:
 
 
 ## <a name='Important Dates' style="color: inherit; text-decoration: none; text-align: center;"> Important Dates </a>
-Submission website open: TBA<br/>
-Submission Deadlines: TBA<br/>
-Acceptance Notification: TBA<br/>
-R<sup>3</sup>AG Workshop: December 12, 2024
+- Submission website open: TBA<br/>
+- Submission Deadlines: TBA<br/>
+- Acceptance Notification: TBA<br/>
+- R<sup>3</sup>AG Workshop: December 12, 2024
 
 ## <a name='Schedule' style="color: inherit; text-decoration: none; text-align: center;"> Schedule </a>
 TBA
 
 ## <a name='Organizers' style="color: inherit; text-decoration: none;"> Organizers </a>
+- **Zihan Wang**, University of Amsterdam, zihanwang.sdu@gmail.com
 
-* **Zihan Wang**, University of Amsterdam, zihanwang.sdu@gmail.com
+- **Xuri Ge**, University of Glasgow, x.ge.2@research.gla.ac.uk
 
-* **Xuri Ge**, University of Glasgow, x.ge.2@research.gla.ac.uk
+- **Joemon M. Jose**, University of Glasgow, joemon.jose@glasgow.ac.uk
 
-* **Joemon M. Jose**, University of Glasgow, joemon.jose@glasgow.ac.uk
+- **Haitao Yu**, University of Tsukuba, yuhaitao@slis.tsukuba.ac.jp
 
-* **Haitao Yu**, University of Tsukuba, yuhaitao@slis.tsukuba.ac.jp
+- **Weizhi Ma**, Tsinghua University, mawz12@hotmail.com
 
-* **Weizhi Ma**, Tsinghua University, mawz12@hotmail.com
+- **Zhaochun Ren**, Leiden University, z.ren@liacs.leidenuniv.nl
 
-* **Zhaochun Ren**, Leiden University, z.ren@liacs.leidenuniv.nl
-
-* **Xin xin**, Shandong University, xinxin@sdu.edu.cn
+- **Xin xin**, Shandong University, xinxin@sdu.edu.cn
 
 
 
