@@ -9,9 +9,9 @@ description: ""
  This workshop aims to explore in depth how to conduct refined and reliable RAG for downstream AI tasks. We call for participants to re-examine and formulate the basic principles and practical implementation of refined and reliable RAG. The workshop serves as a platform for both academia and industry researchers to conduct discussions, share insights, and foster research to build the next generation of RAG systems. Participants will engage in discussions and presentations focusing on fundamental challenges, cutting-edge research, and  potential pathways to improve RAG.  
 
 ## <a name='Call for Papers' style="color: inherit; text-decoration: none;text-align: center;"> Call for Papers </a> 
-We invited researchers to submit their latest work to the R<sup>3</sup>AG workshop on fundemental challenges . Topics includes but not limited to:
+We invited researchers to submit their latest work to the R<sup>3</sup>AG workshop on fundemental challenges associated with the RAG pipeline.The topics of interest include, but are not limited to:
 - User Intent Comprehension
-- Query & Knowledge Encoding
+- Query and Knowledge Encoding
 - RAG for Complex Documents
 - Reliable Retrieval for RAG
 - Response Evaluation and Refinement
