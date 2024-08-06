@@ -3,7 +3,7 @@ layout: page
 description: ""
 ---
 
-## Organizers
+# Organizers
 
 **Zihan Wang**, University of Amsterdam, zihanwang.sdu@gmail.com
 
