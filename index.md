@@ -20,7 +20,7 @@ We invited researchers to submit their latest work to the R<sup>3</sup>AG worksh
 ## Submission Guidelines
 Submissions of papers must be at least 2 pages and at most 9 pages (including figures, tables, proofs, appendixes, acknowledgments, and any content except references) in length, with unlimited pages for references. Submissions of papers must be in English, in PDF format, in the current ACM two-column conference format. Suitable LaTeX, Word, and Overleaf templates are available from the [ACM Website](https://www.acm.org/publications/proceedings-template) (use the “sigconf” proceedings template for LaTeX and the Interim Template for Word).
 
-All submissions of papers must be original and have not been published or accepted elsewhere or simultaneously submitted to another journal or conference.The review process of the submitted manuscripts will be done together with our programme committee. The selection will depend on the technical soundness and relevance of submissions to the community that the workshop is targeting.
+All submissions of papers must be original and have not been published or accepted elsewhere or simultaneously submitted to another journal or conference. The review process of the submitted manuscripts will be done together with our programme committee. The selection will depend on the technical soundness and relevance of submissions to the community that the workshop is targeting.
 
 At least one author of each accepted paper must attend the workshop on-site and present their work. Submissions must be anonymous and should be submitted electronically via EasyChair: <https://easychair.org/conferences/?conf=r3agsigirap2024>.
 
