@@ -28,8 +28,8 @@ At least one author of each accepted paper must attend the workshop on-site and 
 
 ## <a name='Important Dates' style="color: inherit; text-decoration: none; text-align: center;"> Important Dates </a>
 - Submission website open: **September 13, 2024**<br/>
-- Submission Deadlines: **October 3, 2024**<br/>
-- Acceptance Notification: **October 18, 2024**<br/>
+- Submission Deadlines: ~~October 3, 2024~~ **October 17, 2024** <br/>
+- Acceptance Notification: ~~October 18, 2024~~ **November 1, 2024**<br/>
 - R<sup>3</sup>AG Workshop: **December 12, 2024**
 - Deadlines refer to 23:59 (11:59 pm) in the AoE (Anywhere on Earth) time zone.
 
