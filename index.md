@@ -39,7 +39,7 @@ At least one author of each accepted paper must attend the workshop on-site and 
     <tr>
         <td width="200">Time (JST, UTC +9)</td>
         <td>Event</td>
-        <td width="180">Presenter</td>
+        <td width="200">Presenter</td>
     </tr>
     <tr>
         <td>14:40-14:45</td>
@@ -64,7 +64,7 @@ At least one author of each accepted paper must attend the workshop on-site and 
     <tr>
         <td>15:30-16:10</td>
         <td>Invited talk 1</td>
-        <td>Prof. Guido Zuccon (University of Queensland)</td>
+        <td>Prof. Guido Zuccon <br> (University of Queensland)</td>
     </tr>
     <tr>
         <td>16:10-16:30</td>
@@ -74,7 +74,7 @@ At least one author of each accepted paper must attend the workshop on-site and 
     <tr>
         <td>16:30-17:10</td>
         <td>Invited talk 2: Flexible Representations with Learned Sparse</td>
-        <td>Dr. Andrew Yates (University of Amsterdam)</td>
+        <td>Dr. Andrew Yates <br> (University of Amsterdam)</td>
     </tr>
     <tr>
         <td>17:15-18:00</td>
