@@ -38,7 +38,8 @@ At least one author of each accepted paper must attend the workshop on-site and 
 |         Time           |                Event                 |       Presenter     |
 |-------------------------------|-------------------------------------|---------------------|
 | 14:40-14:45 | Welcome & opening                                                                                                          | Organizers                                    |
-| 14:45-15:00 | Oral paper 1: PAttriEval: A Python Library for the Evaluation of Attribution in Retrieval-Augmented Large Language Models  | Amin Abolghasemi |
+| 14:45-15:00 | Oral paper 1: 
+PAttriEval: A Python Library for the Evaluation of Attribution in Retrieval-Augmented Large Language Models  | Amin Abolghasemi |
 | 15:00-15:15 | Oral paper 2: Boosting Personalized Conversational Information Seeking with Retrieval-augmented Generation  | Yating Zhang |
 | 15:15-15:30 | Oral paper 3: LR-LLM: Integrating Real-time Location and LLM for Enhanced Recommendations  |        |
 | 15:30-16:10 | Invited talk 1 | Prof. Guido Zuccon (University of Queensland) |
