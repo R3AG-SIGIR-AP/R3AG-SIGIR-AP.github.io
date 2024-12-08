@@ -59,15 +59,18 @@ At least one author of each accepted paper must attend the workshop on-site and 
     <tr>
         <td>15:15 - 15:30</td>
         <td>Oral paper 3: LR-LLM: Integrating Real-time Location and LLM for Enhanced Recommendations</td>
+        <td></td>
     </tr>
     <tr>
         <td>15:30 - 16:10</td>
         <td>Invited talk 1</td>
         <td>Prof. Guido Zuccon (University of Queensland)</td>
+        <td></td>
     </tr>
     <tr>
         <td>16:10 - 16:30</td>
         <td>Coffee break</td>
+        <td></td>
     </tr>
     <tr>
         <td>16:30 - 17:10	</td>
@@ -77,6 +80,7 @@ At least one author of each accepted paper must attend the workshop on-site and 
     <tr>
         <td>17:15 - 18:00</td>
         <td>Panel discussion</td>
+        <td></td>
     </tr>
 </table>
 
