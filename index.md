@@ -35,16 +35,128 @@ At least one author of each accepted paper must attend the workshop on-site and 
 
 ## <a name='Schedule' style="color: inherit; text-decoration: none; text-align: center;"> Schedule </a>
 
-|  Time  |  Event | Presenter |
-|:--:|:--:|:--:|
-| 14:40 - 14:45 | Welcome & opening                                                                                                          | Organizers                                    |
-| 14:45 - 15:00 | Oral paper 1: PAttriEval: A Python Library for the Evaluation of Attribution in Retrieval-Augmented Large Language Models  | Amin Abolghasemi |
-| 15:00 - 15:15 | Oral paper 2: Boosting Personalized Conversational Information Seeking with Retrieval-augmented Generation  | Yating Zhang |
-| 15:15 - 15:30 | Oral paper 3: LR-LLM: Integrating Real-time Location and LLM for Enhanced Recommendations  |        |
-| 15:30 - 16:10 | Invited talk 1 | Prof. Guido Zuccon (University of Queensland) |
-| 16:10 - 16:30 | Coffee break  |                                               |
-| 16:30 - 17:10 | Invited talk 2: Flexible Representations with Learned Sparse                                                               | Dr. Andrew Yates (University of Amsterdam)|
-| 17:15 - 18:00 | Panel discussion |                     |
+<table>
+    <tr>
+        <td>Time</td>
+        <td>Event</td>
+        <td>Presenter</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>14:40 - 14:45</td>
+        <td>Welcome &amp; opening</td>
+        <td>Organizers</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>14:45 - 15:00</td>
+        <td>Oral paper 1: PAttriEval: A Python Library for the Evaluation of Attribution in Retrieval-Augmented Large Language Models</td>
+        <td>Amin Abolghasemi</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>15:00 - 15:15</td>
+        <td>Oral paper 2: Boosting Personalized Conversational Information Seeking with Retrieval-augmented Generation</td>
+        <td>Yating Zhang</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>15:15 - 15:30</td>
+        <td>Oral paper 3: LR-LLM: Integrating Real-time Location and LLM for Enhanced Recommendations</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>15:30 - 16:10</td>
+        <td>Invited talk 1</td>
+        <td>Prof. Guido Zuccon (University of Queensland)</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>16:10 - 16:30</td>
+        <td>Coffee break</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>16:30 - 17:10	</td>
+        <td>Invited talk 2: Flexible Representations with Learned Sparse</td>
+        <td>Dr. Andrew Yates (University of Amsterdam)</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>17:15 - 18:00</td>
+        <td>Panel discussion</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
 
 ## <a name='Organizers' style="color: inherit; text-decoration: none;"> Organizers </a>
 - **Zihan Wang**, University of Amsterdam, zihanwang.sdu@gmail.com
