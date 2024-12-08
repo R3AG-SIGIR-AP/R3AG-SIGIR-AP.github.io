@@ -35,7 +35,7 @@ At least one author of each accepted paper must attend the workshop on-site and 
 
 ## <a name='Schedule' style="color: inherit; text-decoration: none; text-align: center;"> Schedule </a>
 
-<table>
+<table style="border-color: #00FF00;">
     <tr>
         <td>Time</td>
         <td>Event</td>
