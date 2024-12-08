@@ -35,8 +35,8 @@ At least one author of each accepted paper must attend the workshop on-site and 
 
 ## <a name='Schedule' style="color: inherit; text-decoration: none; text-align: center;"> Schedule </a>
 
-|         Time          |               Event                |       Presenter     |
-|-------------------------------|------------------------------------------------------------------------------------------------|---------------------|
+|         Time           |               Event                |       Presenter     |
+|-------------------------------|-------------------------------------|---------------------|
 | 14:40-14:45 | Welcome & opening                                                                                                          | Organizers                                    |
 | 14:45-15:00 | Oral paper 1: PAttriEval: A Python Library for the Evaluation of Attribution in Retrieval-Augmented Large Language Models  | Amin Abolghasemi |
 | 15:00-15:15 | Oral paper 2: Boosting Personalized Conversational Information Seeking with Retrieval-augmented Generation  | Yating Zhang |
