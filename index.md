@@ -37,7 +37,7 @@ At least one author of each accepted paper must attend the workshop on-site and 
 
 <table style="border-color: #00FF00;">
     <tr>
-        <td width="150">Time (JST)</td>
+        <td width="150">Time (JST, UTC +9)</td>
         <td>Event</td>
         <td>Presenter</td>
     </tr>
