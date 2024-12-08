@@ -35,7 +35,7 @@ At least one author of each accepted paper must attend the workshop on-site and 
 
 ## <a name='Schedule' style="color: inherit; text-decoration: none; text-align: center;"> Schedule </a>
 
-|         Time           |                Event                 |       Presenter     |
+|         Time    &emsp;       |                Event                 |       Presenter     |
 |-------------------------------|-------------------------------------|---------------------|
 | 14:40-14:45 | Welcome & opening                                                                                                          | Organizers                                    |
 | 14:45-15:00 | Oral paper 1: <be> PAttriEval: A Python Library for the Evaluation of Attribution in Retrieval-Augmented Large Language Models  | Amin Abolghasemi |
