@@ -35,7 +35,7 @@ At least one author of each accepted paper must attend the workshop on-site and 
 
 ## <a name='Schedule' style="color: inherit; text-decoration: none; text-align: center;"> Schedule </a>
 
-<table border="1" style="border-color: black; border-width: 3px;" align="center" cellspacing="2" cellpadding="2">
+<table border="1" style="border-color: black; border-width: 3px;" align="center" cellspacing="4" cellpadding="4">
     <tr>
         <td width="200">Time (JST, UTC +9)</td>
         <td>Event</td>
